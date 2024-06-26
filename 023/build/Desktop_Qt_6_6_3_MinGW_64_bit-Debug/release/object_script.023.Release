@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/tdialog.o
+release/tdialogheaders.o
+release/tdialoglocate.o
+release/tformdoc.o
+release/trormtable.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_tdialog.o
+release/moc_tdialogheaders.o
+release/moc_tdialoglocate.o
+release/moc_tformdoc.o
+release/moc_trormtable.o

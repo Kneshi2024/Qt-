@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/tdialog.o
+debug/tdialogheaders.o
+debug/tdialoglocate.o
+debug/tformdoc.o
+debug/trormtable.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_tdialog.o
+debug/moc_tdialogheaders.o
+debug/moc_tdialoglocate.o
+debug/moc_tformdoc.o
+debug/moc_trormtable.o
